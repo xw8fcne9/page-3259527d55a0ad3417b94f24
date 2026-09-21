@@ -1,0 +1,122 @@
+{
+  "version": 2,
+  "template_version": "d39ce472eeb3cc3f10e7",
+  "page_size": 20,
+  "site_id": "f6a4ba60a4ff3b48f20477bf",
+  "owner": "xw8fcne9",
+  "repo": "page-3259527d55a0ad3417b94f24",
+  "title": "金坷垃",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "3259527d55a0ad3417b94f24",
+      "a": "金坷垃",
+      "b": "2027官方最新地址导航",
+      "entity": "金坷垃",
+      "brand": "金坷垃",
+      "separator": "|",
+      "path": "index.html",
+      "hash": "c59c4288656879395f19618c093f297509c6959878ea006199b9bc3ac3d27cf1",
+      "content": {
+        "primary_entity": "金坷垃",
+        "keyword1": "金坷垃",
+        "keyword2": "2027官方最新地址导航",
+        "content": {
+          "AI_CLIENTS_INTRO": "按设备系统选择客户端，Windows、macOS、Android、iOS 均有对应订阅配置方式。",
+          "AI_CLIENTS_TITLE": "客户端选择",
+          "AI_CLOSING_TEXT": "结合流量、设备数与预算选定套餐，再按对应客户端文档完成订阅配置。",
+          "AI_CLOSING_TITLE": "选好套餐再配置",
+          "AI_DESCRIPTION": "，围绕设备选择和订阅配置展开，提供基础版、旗舰版、团队版三档方案，分别覆盖 100GB、300GB、1000GB 月流量与 3 台、5 台、20 台设备支持，按年付相比月付更划算，适合个人、小团队和多人协作场景。",
+          "AI_FEATURES_INTRO": "从套餐档位、设备数量到订阅周期，按实际使用需求做出选择。",
+          "AI_FEATURES_TITLE": "套餐与设备要点",
+          "AI_FEATURE_TEXT_1": "基础版每月 100GB、3 台设备，适合手机加电脑的日常使用。",
+          "AI_FEATURE_TEXT_2": "旗舰版每月 300GB、5 台设备，含 IPLC 专线游戏加速与流媒体解锁。",
+          "AI_FEATURE_TEXT_3": "团队版每月 1000GB、20 台设备，支持企业定制路由与专属客户经理。",
+          "AI_FEATURE_TITLE_1": "按流量选档",
+          "AI_FEATURE_TITLE_2": "按设备数选档",
+          "AI_FEATURE_TITLE_3": "按团队规模选档",
+          "AI_GUIDE_INTRO": "从确定套餐到完成订阅，三步即可开始使用。",
+          "AI_GUIDE_TITLE": "使用步骤",
+          "AI_HERO_INTRO": "金坷垃提供基础版、旗舰版、团队版三档订阅方案，覆盖 100GB 到 1000GB 月流量和 3 台到 20 台设备支持。按年付可节省费用，旗舰版与团队版在高带宽节点、流媒体解锁和专属支持上更完整，适合个人、小团队与多人协作场景。",
+          "AI_HERO_SUBTITLE": "三档套餐覆盖个人到团队",
+          "AI_HIGHLIGHT_1": "月流量 100GB 至 1000GB",
+          "AI_HIGHLIGHT_2": "支持 3 台至 20 台设备",
+          "AI_HIGHLIGHT_3": "年付价格更优惠",
+          "AI_PLANS_INTRO": "基础版 ¥15/月或 ¥150/年，旗舰版 ¥35/月或 ¥350/年，团队版 ¥85/月或 ¥850/年，按流量与设备数选择。",
+          "AI_PLANS_TITLE": "套餐对比",
+          "AI_STEP_TEXT_1": "根据月流量需求与设备数量，确定基础版、旗舰版或团队版。",
+          "AI_STEP_TEXT_2": "核对所选套餐的设备上限、流媒体解锁和线路支持范围。",
+          "AI_STEP_TEXT_3": "在对应客户端中依照文档导入订阅，完成连接配置。",
+          "AI_STEP_TITLE_1": "选择套餐",
+          "AI_STEP_TITLE_2": "查看适配要求",
+          "AI_STEP_TITLE_3": "配置订阅",
+          "AI_VISUAL_TITLE": "金坷垃加速订阅",
+          "AI_FAQ_ANSWER_1": "基础版每月 100GB 流量、支持 3 台设备；旗舰版每月 300GB、支持 5 台设备；团队版每月 1000GB、支持 20 台设备。按人数和流量需求选择即可。",
+          "AI_FAQ_ANSWER_2": "客户端地址由程序在页面中提供，购买后系统会分配订阅链接，把链接粘贴到 Clash、Shadowrocket 等客户端即可完成导入。",
+          "AI_FAQ_ANSWER_3": "按年付比按月付更划算，基础版 ¥150/年、旗舰版 ¥350/年、团队版 ¥850/年，相当于节省两个月费用。长期使用建议选择年付。",
+          "AI_FAQ_ANSWER_4": "基础版适合个人轻量使用；旗舰版增加 IPLC 专线，适合游戏和流媒体需求；团队版支持 20 台设备和路由定制，适合小团队或企业。",
+          "AI_FAQ_ANSWER_5": "订阅链接一般绑定账号，同一时间在线的设备数不能超过套餐上限。如需更换设备，先在原设备退出或删除配置，再在新设备导入。",
+          "AI_FAQ_INTRO": "订阅导入、设备限制与付费周期。",
+          "AI_FAQ_QUESTION_1": "基础版、旗舰版、团队版的主要区别是什么？",
+          "AI_FAQ_QUESTION_2": "怎么获取和导入订阅链接？",
+          "AI_FAQ_QUESTION_3": "按年付和按月付哪个更划算？",
+          "AI_FAQ_QUESTION_4": "适合选择哪一档套餐？",
+          "AI_FAQ_QUESTION_5": "一台设备可以使用多个客户端吗？",
+          "AI_FAQ_TITLE": "常见问题"
+        },
+        "plans": [
+          {
+            "name": "基础版",
+            "price": "¥15/月",
+            "annual_price": "按年付仅需 ¥150/年",
+            "features": [
+              "每月 100GB 极速流量",
+              "支持 3 台设备同时在线",
+              "解锁基础流媒体",
+              "普通线路节点池"
+            ]
+          },
+          {
+            "name": "旗舰版",
+            "price": "¥35/月",
+            "annual_price": "按年付仅需 ¥350/年",
+            "featured": true,
+            "features": [
+              "每月 300GB 极速流量",
+              "支持 5 台设备同时在线",
+              "全节点原生流媒体解锁",
+              "IPLC 专线游戏加速优化",
+              "7x24 优先工单支持"
+            ]
+          },
+          {
+            "name": "团队版",
+            "price": "¥85/月",
+            "annual_price": "按年付仅需 ¥850/年",
+            "features": [
+              "每月 1000GB 极速流量",
+              "支持 20 台设备同时在线",
+              "VIP 专属高带宽节点",
+              "支持企业定制路由",
+              "专属客户经理服务"
+            ]
+          }
+        ],
+        "clients": []
+      }
+    }
+  ],
+  "domain": {
+    "apex": "cyjdj.cn",
+    "host": "cyjdj.cn"
+  },
+  "file_hashes": {
+    "index.html": "071c1f53fe5cbecc4557d1a530a823e21b637e5309629c2e126d9fbe4dc25411",
+    "sitemap.xml": "f66932bfe982a8f5908c8d6d8f4f37d7fcc00b7a83dd4dcf55bd01a977ec243b",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126",
+    "CNAME": "934c6f5095afd34b1736c9774d86415d3a9041c17e02c1711432d3eb446c457e",
+    "robots.txt": "d54f771f23de9763ab1de76c9902304742649821e3ba12faeca5ce8a91be2b9f",
+    "7d09c85f0a66d487d339d2c1d3331c22.txt": "a90abffabb0be8adc99d0a10f278c655a8a519ee43156d7ed75a9c3c21f2570f"
+  },
+  "revision": "4665238eff21c4c4491b3c61af122ab259d16ba5fa016921ed83fe1e9ae6c3e9"
+}
